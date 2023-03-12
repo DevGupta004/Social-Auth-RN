@@ -1,10 +1,11 @@
 import React from 'react';
 import { StyleSheet, View, Text, Image } from 'react-native';
 
+
 const UserProfile = () => {
   const user = ({
     name: 'Dev Gupta',
-    profilePicture:'www.lh3.googleusercontent.com/a-/ACB-R5QFOD_vT4b5Cqh8qBdf_OpHmTXXiugPhaiwLVdh=s300',
+    profilePicture: 'https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_1280.png',
     bio: 'Software Developer',
     email: 'er.devgupta007@gmail.com',
     phone: '+91 8400 7070 72',
